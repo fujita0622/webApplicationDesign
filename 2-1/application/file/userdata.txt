@@ -1,0 +1,3 @@
+山田太郎,yamada,taro,080-1111-3311,taro_yamada@lan.ne.jp
+松田翔子,matuda,syoko,070-2222-2222,syoko_matuda@lan.ne.jp
+藤田瞬大朗,syuntaro,fujita,090-4915-4240,fujita_syuntaro@lan.ne.jp
