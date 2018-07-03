@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>ファイル登録入力画面</title>
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+</head>
+<body>
+  <form action="registration_comp.php" enctype="multipart/form-data" method="POST">
+    <p>登録ファイル<input type="file" name="file">：登録するファイルを選択</p>
+    <p>ファイルの説明（全角）<input type="text" name="file_description">：ファイルの説明を入力</p>
+    <input type="submit" value="送信">
+    <input type="reset" value="リセット">
+  </form>
+</body>
+</html>

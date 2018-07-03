@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+table,th {
+  border: solid 2px #000;
+}
+
+td {
+  border: solid 1px #000;
+}
